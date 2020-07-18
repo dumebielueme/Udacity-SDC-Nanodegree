@@ -6,4 +6,4 @@ Used Python C++ tp code self driving cars
 Basics of Probability
 
 # Project 0: Joyride
-See here
+See <a href="https://github.com/dumebielueme/Udacity-SDC-Nanodegree/blob/master/ParallelParking.ipynb"> here </a>
