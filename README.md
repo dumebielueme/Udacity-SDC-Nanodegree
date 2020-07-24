@@ -1,7 +1,8 @@
 # Udacity-SDC-Nanodegree
 Logs of my SDC Nanodegree Course
 Used Python C++ tp code self driving cars
-
+My notes in <a href="https://www.notion.so/Udacity-Self-Driving-Cars-Nanodegree-Notes-95104b0a28d8475896f2edac8d09a79a
+"> Notion </a>. 
 # Bayesian Thinking
 Basics of Probability
 
