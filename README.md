@@ -17,7 +17,16 @@ View jupyter notebook <a href="https://github.com/dumebielueme/Udacity-SDC-Nanod
 Basics Matrices concepts, Kalman Filters, etc.
 
 # Project 2: Implement a Matrix Classs
-Jupyter Notebok with Kalman Filter and backup files <a href=""> here</a>
+Jupyter Notebok with Kalman Filter and backup files <a href="https://github.com/dumebielueme/Udacity-SDC-Nanodegree/tree/master/KalmanFilter"> here</a>
+
+This folder contains seven files in total
+1. <a href="https://github.com/dumebielueme/Udacity-SDC-Nanodegree/blob/master/KalmanFilter/kalman_filter_demo.ipynb"> kalman_filter_demo.ipynb</a> which contains the demo file used to run tests.
+2. <a href="https://github.com/dumebielueme/Udacity-SDC-Nanodegree/blob/master/KalmanFilter/kalman_filter_demo.ipynb"> matrix_cheat_sheet.ipynb</a> provided by Udacity, with the relevant matrices concepts for this project.
+3. Playground
+4. Test Playground
+5. datagenerator.py
+6. matrix.py
+7. test.py
 
 # C++ basics
 Vector and Matrix programming in C++, Object oriented programming
