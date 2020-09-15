@@ -1,6 +1,6 @@
 # Udacity-SDC-Nanodegree
 Logs of my Introduction to Self Driving Cars Nanodegree Course on Udacity.
-Used Python, C++ to in the process of learning the basic skills needed to code SDCs.
+Used Python, C++ in the process of learning the basic skills needed to code SDCs.
 My notes in <a href="https://www.notion.so/Udacity-Self-Driving-Cars-Nanodegree-Notes-95104b0a28d8475896f2edac8d09a79a
 "> Notion</a>. 
 
@@ -33,3 +33,15 @@ Vector and Matrix programming in C++, Object oriented programming
 
 # Project 3: Translate Python to C++
 Project is currently under review.
+
+# Performance Programming in C++
+Learnt methods to optimze code
+
+# Navigating Data Structures
+Methods to solve problems, introduction to data structures and The Search Problem
+
+# Project 4: Implementing a Route Planner
+This folder contains 3 files in total
+1. <a href="https://github.com/dumebielueme/Udacity-SDC-Nanodegree/blob/master/KalmanFilter/kalman_filter_demo.ipynb"> project_nptebook.ipynb</a> which contains the demo file used to run tests.
+2. <a href="https://github.com/dumebielueme/Udacity-SDC-Nanodegree/blob/master/KalmanFilter/kalman_filter_demo.ipynb"> helpers.py</a> provided by Udacity, with the relevant matrices concepts for this project.
+3. test.py
