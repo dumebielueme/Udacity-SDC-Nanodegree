@@ -7,7 +7,7 @@ My notes in <a href="https://www.notion.so/Udacity-Self-Driving-Cars-Nanodegree-
 ## Bayesian Thinking
 Basics of Probability, Bayes' Rule, Probability Districution, Programming Probability, Robot Localization.
 
-## Histogram Filter in Python (Incomplete)
+## Histogram Filter in Python 
 Jupyter Notebok with 2D Histogram Filter and back up files <a href=""> here</a>
 
 ## Project 1: Joyride
@@ -50,4 +50,6 @@ This folder contains 3 files in total
 Incomplete
 
 ## Computer Vision and Machine Learning
+
+## 
 
